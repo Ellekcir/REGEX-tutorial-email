@@ -10,7 +10,7 @@
 ## Description
 This is a tutorial on Regular Expression (Regex) basics, it explains to you how you can match to any given email using Regex. It will explain why we use them, discuss how it works and guide you through all the starting tips to Regular Expressions.
 
-<script src="https://gist.github.com/Ellekcir/baf9d9a22dfd2901b4f03d32348a00d7.js"></script>
+https://gist.github.com/Ellekcir/9b246ebbfebbd047659c7ab9306f817e
 
 ## Table of Contents
 * [Description](#description)
